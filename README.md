@@ -1,4 +1,12 @@
-### Hi there 👋
+# Zhang Chenpeng
+
+- A undergraduate from Peking University, majoring Space Physics🛰️
+- Studying computer science by myself
+- Also some participation in web3.0 area! Member of DAORayaki, SEEDAO
+- Courses Studied: Advanced Mathematics📚, Mechanics🏗️, Electromagnetics:electron:	, Thermo Mechanics🔥, Methods of Mathematical Physics📘, UCB CS61A💻, UCB CS169 (self-study, not certificated)
+- Other than that I'm also a cyclist in Peking University cycling team🚲
+
+## Unfinished...
 
 <!--
 **ChenpengZhang/ChenpengZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
