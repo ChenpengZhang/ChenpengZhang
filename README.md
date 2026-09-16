@@ -4,7 +4,7 @@
 - Physics & GIS
 - Agent & Computer vision
 - Less is more.
-- [粋 (https://chenpengzhang.github.io)]
+- [Find me here.](https://chenpengzhang.github.io)
 
 <!--
 **ChenpengZhang/ChenpengZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
